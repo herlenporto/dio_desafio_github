@@ -1,6 +1,3 @@
-#Disciplina: Projeto integrador de competências em ciência da computação 1
-#Aluna: Herlen Vital Porto
-#Atividade 1
 
 qtd_livros = float(input("quantos livros você quer comprar? "))
 
